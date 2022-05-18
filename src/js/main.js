@@ -7,14 +7,7 @@ let courses = [
     { name: "Courses in USA", prices: [200, null] },
     { name: "Courses in Kazakhstan", prices: [56, 324] },
     { name: "Courses in France", prices: [null, null] },
-    // { name: "Courses in England", prices: 12 }, 
-    // { name: "Courses in Germany", prices: 400 }, 
-    // { name: "Courses in Italy", prices: 100 }, 
-    // { name: "Courses in Russia", prices: 150 },
-    // { name: "Courses in China", prices: 60 },
-    // { name: "Courses in USA", prices: 300 },
-    // { name: "Courses in Kazakhstan", prices: 250 },
-    // { name: "Courses in France", prices:400 },
+
 ];
 
  
